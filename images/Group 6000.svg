@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="309" height="309" viewBox="0 0 309 309">
+  <defs>
+    <filter id="Rectangle_761" x="0" y="0" width="309" height="309" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_6000" data-name="Group 6000" transform="translate(39.828 40)">
+    <g transform="matrix(1, 0, 0, 1, -39.83, -40)" filter="url(#Rectangle_761)">
+      <rect id="Rectangle_761-2" data-name="Rectangle 761" width="219" height="219" rx="10" transform="translate(40 40)" fill="#fefbeb"/>
+    </g>
+    <image id="SBPDCL_logo" width="172" height="193" transform="translate(29.172 4)" xlink:href="Group%206000-image.gif"/>
+  </g>
+</svg>
